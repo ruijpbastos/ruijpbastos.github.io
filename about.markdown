@@ -16,9 +16,9 @@ A minha formação é Engenharia Biomédica, o que quer dizer que sei quase nada
 Já fui monitor de uma sala de computadores, explicador, guia de museu e técnico de laboratório. Mais recentemente tenho sido data scientist (em português seria cientista de dados, mas ninguém quer saber).
 
 Mais interessante do que isso, tenho alguns contos publicados:
-- __*O Julgamento de Natal*__, na [Antologia Fénix de Ficção Científica e Fantasia - Volume III](https://www.smashwords.com/books/view/389963)
-- __*A colina que olha para ti*__, na antologia [Nos Limites do Infinito](https://divergencia.pt/loja/pre-venda-nos-limites-do-infinito/)
-- __*De onde veio a máscara?*__, número 4 da [Colecção Barbante](https://imaginauta.net/produtos/coleccao-barbante/)
-- __*O entrelaçamento electroquântico de que são feitas as lendas*__, publicado em [ebook](https://www.smashwords.com/books/view/670149), na antologia [Comandante Serralves - Expansão](https://imaginauta.net/produtos/comandante-serralves-expansao/) e na antologia *omnibus* [Comandante Serralves]()
-- __*Chuva de sangue*__, publicado na revista brasileira [Diário Macabro #3](https://diariomacabro.lojaintegrada.com.br/dm3)
-- __*O comandante duplicado*__, na antologia *omnibus* [Comandante Serralves]()
+- (2013) __*O Julgamento de Natal*__, na [Antologia Fénix de Ficção Científica e Fantasia - Volume III](https://www.smashwords.com/books/view/389963)
+- (2015) __*De onde veio a máscara?*__, número 4 da [Colecção Barbante](https://imaginauta.net/produtos/coleccao-barbante/)
+- (2015) __*A colina que olha para ti*__, na antologia [Nos Limites do Infinito](https://divergencia.pt/loja/pre-venda-nos-limites-do-infinito/)
+- (2016) __*O entrelaçamento electroquântico de que são feitas as lendas*__, publicado em [ebook](https://www.smashwords.com/books/view/670149), na antologia [Comandante Serralves - Expansão](https://imaginauta.net/produtos/comandante-serralves-expansao/) (2018) e na antologia *omnibus* [Comandante Serralves]() (2021)
+- (2018) __*Chuva de sangue*__, publicado na revista brasileira [Diário Macabro #3](https://diariomacabro.lojaintegrada.com.br/dm3)
+- (2021) __*O comandante duplicado*__, na antologia *omnibus* [Comandante Serralves]()
